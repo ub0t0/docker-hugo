@@ -1,0 +1,6 @@
+baseURL = ""
+languageCode = "ja"
+title = "My New Hugo Site"
+theme = "learn"
+publishDir = "../docs"
+relativeURL = true
